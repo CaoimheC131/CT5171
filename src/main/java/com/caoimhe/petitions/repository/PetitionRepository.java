@@ -1,7 +1,7 @@
 // src/main/java/com/<your_first_name>/spetitions/repository/PetitionRepository.java
-package com.<your_first_name>.spetitions.repository;
+package com.caoimhe.petitions.repository;
 
-import com.<your_first_name>.spetitions.model.Petition;
+import com.caoimhe.petitions.model.Petition;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

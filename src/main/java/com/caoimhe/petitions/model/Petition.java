@@ -1,5 +1,5 @@
 // src/main/java/com/<your_first_name>/spetitions/model/Petition.java
-package com.caoimhe.spetitions.model;
+package com.caoimhe.petitions.model;
 
 public class Petition {
     private Long id;
